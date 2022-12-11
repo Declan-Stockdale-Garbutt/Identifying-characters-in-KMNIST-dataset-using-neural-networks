@@ -1,5 +1,3 @@
-# Deep_Learning_subject_assignments
-
 ## Assignment 1A - Create a Perceptron from scratch
 Straighforward implemenation of a perception algorithm
 

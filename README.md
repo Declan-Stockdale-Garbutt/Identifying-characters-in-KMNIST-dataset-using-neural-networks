@@ -54,7 +54,13 @@ Dropout is a one of many regularization methods that we can implement to reduce 
 The accuracy of this model was 89.15% which is slightly lower than the model without dropout. This may indicate that the model is efficient, and neurons randomly removed during dropout are necessary. 
 
 #### Convolutional Neural Network (CNN)
+
+![image](https://user-images.githubusercontent.com/53500810/206883985-f96c8d47-7919-4912-905d-32a5fb9d90f2.png)
+
 The model chosen was an implementation of a successful MNIST CNN model.
+
+![image](https://user-images.githubusercontent.com/53500810/206883985-f96c8d47-7919-4912-905d-32a5fb9d90f2.png)
+
 
 The accuracy of the CNN model was 96.11% which is a significant jump compared to the non-CNN models implemented earlier. The confusion matrix in figure 6 also shows a significant drop in incorrectly identified classes
 
@@ -78,4 +84,3 @@ It can also be seen the number of trainable parameters in the CNN model is compa
 
 ![image](https://user-images.githubusercontent.com/53500810/206884027-d2262acb-e2de-4c91-8048-73516932e5d3.png)
 
-![image](https://user-images.githubusercontent.com/53500810/206883985-f96c8d47-7919-4912-905d-32a5fb9d90f2.png)
